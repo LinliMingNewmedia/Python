@@ -12,8 +12,8 @@
 
 ### 第一、二个页面
 
-* [第一个URL](http://linpican33.pythonanywhere.com/)
-* [第二个URL](http://linpican33.pythonanywhere.com/suicide1)
+* 第一个URL：http://linpican33.pythonanywhere.com/
+* 第二个URL：http://linpican33.pythonanywhere.com/suicide1
 
 * 此页面呈现的是交互表格和可视化散点图，并设有下拉选择框，表格数据和散点图会随着下拉选择框所对应的年份而跳转变化。
 * 在按下下拉选择框里面的年份时，会跳转到第二个URL里面，而于页面内容来说只是在表格上方多呈现了可视化的散点图
@@ -21,19 +21,19 @@
 
 ### 第三个页面
 
-* [第三个URL](http://linpican33.pythonanywhere.com/p2.html) 
+* 第三个URL：http://linpican33.pythonanywhere.com/p2.html
 
 * 此页面呈现的是世界地图的交互可视化，在地图上方设有一横栏用于三个不同的选择跳换，分别对应2016年总自杀率、2016年男性自杀率、2016年女性自杀率进行页内地图跳转。
 * 页头设有下一页的按钮可以跳转到下一页。
 
 ### 第四个页面
 
-* [第四个URL](http://linpican33.pythonanywhere.com/p3.html)
+* 第四个URL：http://linpican33.pythonanywhere.com/p3.html
 * 此页面呈现的是条形图的交互可视化画
 * 页头设有下一页的按钮可以跳转到下一页。
 
 ### 第五个页面
-* [第五个URL](http://linpican33.pythonanywhere.com/p4.html)
+* 第五个URL：http://linpican33.pythonanywhere.com/p4.html
 * 此页面用于作整个项目的研究内容总结
 * 页头设有首页的按钮可以跳转回第一页中
 
