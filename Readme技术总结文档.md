@@ -3,6 +3,7 @@
 ## 1、关于我的网站
 
 * [Pythonanywhere部署的网址](http://linpican33.pythonanywhere.com/) 
+* [个人GitHub的URL](https://github.com/LinliMingNewmedia/Python) 
 
 ***
 
