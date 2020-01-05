@@ -1,0 +1,32 @@
+<form method='POST' action='/p3.html'>
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>详细分析2016年各国自杀率</title>
+	</head>
+    <p><input value='下一页' type='SUBMIT'></p>
+<form>
+</form>
+	<body>
+
+	<h3>我从世界健康组织拿到了2016年各国自杀率的数据。</h3>
+	<h3>通过在地图上的可视化呈现可知：</h3>
+
+{{ the_plot_all|safe }}
+{{ the_res|safe }}
+
+
+ <h3>数据故事:</h3>
+ <p1>
+<b>1.世界上自杀率较高的国家分布于非洲中部，东欧内陆国家及一些亚洲发展中国家，如印度等。</b><br>
+<b><br>2.对比总体男/女自杀率而言，男性自杀率普遍高于女性。</b><br>
+<b><br>3.同时，总自杀率较高的国家与女性自杀率的国家重合程度较高。</b><br>
+</p1>
+<style>
+    p1{ text-align:center}
+    body{background: #BED7B7;}
+</style>
+	</body>
+</html>
+</form>
