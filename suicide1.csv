@@ -1,0 +1,635 @@
+country,year,sex,age,suicides_rate
+Antigua and Barbuda,2012,female,15-24 years,0
+Antigua and Barbuda,2012,male,15-24 years,0
+Antigua and Barbuda,2013,female,15-24 years,0
+Antigua and Barbuda,2013,male,15-24 years,0
+Antigua and Barbuda,2014,female,15-24 years,0
+Antigua and Barbuda,2014,male,15-24 years,0
+Antigua and Barbuda,2015,female,15-24 years,0
+Antigua and Barbuda,2015,male,15-24 years,0
+Argentina,2012,male,15-24 years,21.4
+Argentina,2012,female,15-24 years,6.03
+Argentina,2013,male,15-24 years,19.96
+Argentina,2013,female,15-24 years,4.93
+Argentina,2014,male,15-24 years,21.13
+Argentina,2014,female,15-24 years,6.02
+Argentina,2015,male,15-24 years,18.74
+Argentina,2015,female,15-24 years,4.51
+Armenia,2012,male,15-24 years,1.96
+Armenia,2012,female,15-24 years,0.78
+Armenia,2013,male,15-24 years,0.82
+Armenia,2013,female,15-24 years,0.41
+Armenia,2014,male,15-24 years,1.3
+Armenia,2014,female,15-24 years,0.88
+Armenia,2015,female,15-24 years,1.42
+Armenia,2015,male,15-24 years,0.92
+Armenia,2016,male,15-24 years,2.47
+Armenia,2016,female,15-24 years,0.51
+Australia,2012,male,15-24 years,13.74
+Australia,2012,female,15-24 years,7.25
+Australia,2013,male,15-24 years,16.78
+Australia,2013,female,15-24 years,6.28
+Australia,2014,male,15-24 years,16.89
+Australia,2014,female,15-24 years,6.31
+Australia,2015,male,15-24 years,17.46
+Australia,2015,female,15-24 years,7.21
+Austria,2012,male,15-24 years,12.7
+Austria,2012,female,15-24 years,1.21
+Austria,2013,male,15-24 years,10.41
+Austria,2013,female,15-24 years,4.03
+Austria,2014,male,15-24 years,15.29
+Austria,2014,female,15-24 years,3.44
+Austria,2015,male,15-24 years,11.74
+Austria,2015,female,15-24 years,3.87
+Austria,2016,male,15-24 years,11.03
+Austria,2016,female,15-24 years,4.51
+Bahamas,2012,male,15-24 years,6.11
+Bahamas,2012,female,15-24 years,0
+Bahamas,2013,female,15-24 years,0
+Bahamas,2013,male,15-24 years,0
+Bahrain,2012,male,15-24 years,0.9
+Bahrain,2012,female,15-24 years,0
+Bahrain,2013,male,15-24 years,0.91
+Bahrain,2013,female,15-24 years,0
+Bahrain,2014,male,15-24 years,3.97
+Bahrain,2014,female,15-24 years,0
+Barbados,2012,female,15-24 years,0
+Barbados,2012,male,15-24 years,0
+Barbados,2013,female,15-24 years,0
+Barbados,2013,male,15-24 years,0
+Belarus,2013,male,15-24 years,23.79
+Belarus,2013,female,15-24 years,4.34
+Belarus,2014,male,15-24 years,22.12
+Belarus,2014,female,15-24 years,2.74
+Belgium,2012,male,15-24 years,14.68
+Belgium,2012,female,15-24 years,4.24
+Belgium,2013,male,15-24 years,13.4
+Belgium,2013,female,15-24 years,4.11
+Belgium,2014,male,15-24 years,12.58
+Belgium,2014,female,15-24 years,4.13
+Belgium,2015,male,15-24 years,13.84
+Belgium,2015,female,15-24 years,3.23
+Belize,2012,female,15-24 years,5.77
+Belize,2012,male,15-24 years,2.91
+Belize,2013,male,15-24 years,11.32
+Belize,2013,female,15-24 years,2.81
+Belize,2014,male,15-24 years,5.53
+Belize,2014,female,15-24 years,5.5
+Belize,2015,male,15-24 years,5.41
+Belize,2015,female,15-24 years,2.69
+Bosnia and Herzegovina,2014,male,15-24 years,2.19
+Bosnia and Herzegovina,2014,female,15-24 years,0.8
+Brazil,2012,male,15-24 years,7.44
+Brazil,2012,female,15-24 years,2.23
+Brazil,2013,male,15-24 years,7.47
+Brazil,2013,female,15-24 years,2.11
+Brazil,2014,male,15-24 years,7.71
+Brazil,2014,female,15-24 years,2.17
+Brazil,2015,male,15-24 years,7.91
+Brazil,2015,female,15-24 years,2.33
+Bulgaria,2012,male,15-24 years,10.75
+Bulgaria,2012,female,15-24 years,3.54
+Bulgaria,2013,male,15-24 years,8.04
+Bulgaria,2013,female,15-24 years,1.6
+Bulgaria,2014,male,15-24 years,8.71
+Bulgaria,2014,female,15-24 years,1.4
+Canada,2012,male,15-24 years,16.15
+Canada,2012,female,15-24 years,6.07
+Canada,2013,male,15-24 years,12.7
+Canada,2013,female,15-24 years,6.1
+Chile,2012,male,15-24 years,16.86
+Chile,2012,female,15-24 years,4.49
+Chile,2013,male,15-24 years,15.71
+Chile,2013,female,15-24 years,4.38
+Chile,2014,male,15-24 years,16.83
+Chile,2014,female,15-24 years,4.27
+Chile,2015,male,15-24 years,15.99
+Chile,2015,female,15-24 years,4.76
+Colombia,2012,male,15-24 years,11.42
+Colombia,2012,female,15-24 years,3.65
+Colombia,2013,male,15-24 years,10.62
+Colombia,2013,female,15-24 years,3.43
+Colombia,2014,male,15-24 years,11.38
+Colombia,2014,female,15-24 years,3.23
+Colombia,2015,male,15-24 years,11.27
+Colombia,2015,female,15-24 years,4.32
+Costa Rica,2012,male,15-24 years,13.83
+Costa Rica,2012,female,15-24 years,2.48
+Costa Rica,2013,male,15-24 years,11.47
+Costa Rica,2013,female,15-24 years,1.99
+Costa Rica,2014,male,15-24 years,10.33
+Costa Rica,2014,female,15-24 years,3
+Croatia,2012,male,15-24 years,13.63
+Croatia,2012,female,15-24 years,2.04
+Croatia,2013,male,15-24 years,16.1
+Croatia,2013,female,15-24 years,2.47
+Croatia,2014,male,15-24 years,14.71
+Croatia,2014,female,15-24 years,5
+Croatia,2015,male,15-24 years,13.73
+Croatia,2015,female,15-24 years,2.54
+Croatia,2016,male,15-24 years,12.38
+Croatia,2016,female,15-24 years,2.6
+Cuba,2012,male,15-24 years,8.93
+Cuba,2012,female,15-24 years,3.35
+Cuba,2013,male,15-24 years,6.04
+Cuba,2013,female,15-24 years,2.74
+Cuba,2014,male,15-24 years,8.14
+Cuba,2014,female,15-24 years,2.67
+Cuba,2015,male,15-24 years,7.52
+Cuba,2015,female,15-24 years,2.44
+Cyprus,2012,male,15-24 years,9.09
+Cyprus,2012,female,15-24 years,0
+Cyprus,2013,male,15-24 years,12.72
+Cyprus,2013,female,15-24 years,0
+Cyprus,2014,female,15-24 years,5.07
+Cyprus,2014,male,15-24 years,3.28
+Cyprus,2015,male,15-24 years,8.58
+Cyprus,2015,female,15-24 years,1.72
+Cyprus,2016,male,15-24 years,8.61
+Cyprus,2016,female,15-24 years,0
+Czech Republic,2012,male,15-24 years,13.78
+Czech Republic,2012,female,15-24 years,1.72
+Czech Republic,2013,male,15-24 years,18.4
+Czech Republic,2013,female,15-24 years,2.68
+Czech Republic,2014,male,15-24 years,14.85
+Czech Republic,2014,female,15-24 years,2.04
+Czech Republic,2015,male,15-24 years,10.61
+Czech Republic,2015,female,15-24 years,3.65
+Czech Republic,2016,male,15-24 years,14.78
+Czech Republic,2016,female,15-24 years,4.38
+Denmark,2012,male,15-24 years,9.1
+Denmark,2012,female,15-24 years,2.31
+Denmark,2013,male,15-24 years,6.27
+Denmark,2013,female,15-24 years,3.42
+Denmark,2014,male,15-24 years,8.37
+Denmark,2014,female,15-24 years,1.98
+Denmark,2015,male,15-24 years,4.81
+Denmark,2015,female,15-24 years,1.68
+Ecuador,2012,male,15-24 years,16.41
+Ecuador,2012,female,15-24 years,8.31
+Ecuador,2013,male,15-24 years,10.58
+Ecuador,2013,female,15-24 years,6.22
+Ecuador,2014,male,15-24 years,11.05
+Ecuador,2014,female,15-24 years,5.34
+Ecuador,2015,male,15-24 years,15.68
+Ecuador,2015,female,15-24 years,7.6
+El Salvador,2012,male,15-24 years,16.18
+El Salvador,2012,female,15-24 years,8.75
+El Salvador,2013,male,15-24 years,12.57
+El Salvador,2013,female,15-24 years,6.64
+El Salvador,2014,male,15-24 years,8.03
+El Salvador,2014,female,15-24 years,5.05
+Estonia,2012,male,15-24 years,16.83
+Estonia,2012,female,15-24 years,2.55
+Estonia,2013,male,15-24 years,19.19
+Estonia,2013,female,15-24 years,2.72
+Estonia,2014,male,15-24 years,25.84
+Estonia,2014,female,15-24 years,1.45
+Estonia,2015,male,15-24 years,29.93
+Estonia,2015,female,15-24 years,1.51
+Fiji,2012,male,15-24 years,8.74
+Fiji,2012,female,15-24 years,5.3
+Finland,2012,male,15-24 years,25.2
+Finland,2012,female,15-24 years,9.9
+Finland,2013,male,15-24 years,20.26
+Finland,2013,female,15-24 years,9.63
+Finland,2014,male,15-24 years,18.94
+Finland,2014,female,15-24 years,6.9
+Finland,2015,male,15-24 years,17.77
+Finland,2015,female,15-24 years,3.77
+France,2012,male,15-24 years,9.2
+France,2012,female,15-24 years,2.81
+France,2013,male,15-24 years,8.05
+France,2013,female,15-24 years,3.11
+France,2014,male,15-24 years,7.34
+France,2014,female,15-24 years,2.48
+Georgia,2012,male,15-24 years,3.26
+Georgia,2012,female,15-24 years,0.93
+Georgia,2013,male,15-24 years,4
+Georgia,2013,female,15-24 years,0.64
+Georgia,2014,male,15-24 years,4.54
+Georgia,2014,female,15-24 years,1.99
+Georgia,2015,male,15-24 years,6.86
+Georgia,2015,female,15-24 years,0.87
+Germany,2012,male,15-24 years,9.52
+Germany,2012,female,15-24 years,2.76
+Germany,2013,male,15-24 years,8.74
+Germany,2013,female,15-24 years,2.61
+Germany,2014,male,15-24 years,8.92
+Germany,2014,female,15-24 years,2.87
+Germany,2015,male,15-24 years,8.32
+Germany,2015,female,15-24 years,3.24
+Greece,2012,male,15-24 years,3.97
+Greece,2012,female,15-24 years,1.21
+Greece,2013,male,15-24 years,4.27
+Greece,2013,female,15-24 years,0.71
+Greece,2014,male,15-24 years,4.89
+Greece,2014,female,15-24 years,1.27
+Greece,2015,male,15-24 years,3.56
+Greece,2015,female,15-24 years,0.55
+Grenada,2012,male,15-24 years,8.95
+Grenada,2012,female,15-24 years,0
+Grenada,2013,female,15-24 years,0
+Grenada,2013,male,15-24 years,0
+Grenada,2014,female,15-24 years,0
+Grenada,2014,male,15-24 years,0
+Grenada,2015,female,15-24 years,0
+Grenada,2015,male,15-24 years,0
+Grenada,2016,female,15-24 years,0
+Grenada,2016,male,15-24 years,0
+Guatemala,2012,male,15-24 years,7.24
+Guatemala,2012,female,15-24 years,3.93
+Guatemala,2013,male,15-24 years,7.42
+Guatemala,2013,female,15-24 years,4.45
+Guatemala,2014,male,15-24 years,6.77
+Guatemala,2014,female,15-24 years,5.07
+Guatemala,2015,male,15-24 years,7.13
+Guatemala,2015,female,15-24 years,4.85
+Guyana,2012,male,15-24 years,40.24
+Guyana,2012,female,15-24 years,19.25
+Guyana,2013,male,15-24 years,43.64
+Guyana,2013,female,15-24 years,38.67
+Hungary,2012,male,15-24 years,13.25
+Hungary,2012,female,15-24 years,2.56
+Hungary,2013,male,15-24 years,9.86
+Hungary,2013,female,15-24 years,2.08
+Hungary,2014,male,15-24 years,12.09
+Hungary,2014,female,15-24 years,1.42
+Hungary,2015,male,15-24 years,11.85
+Hungary,2015,female,15-24 years,2.72
+Hungary,2016,male,15-24 years,10.21
+Hungary,2016,female,15-24 years,2.61
+Iceland,2012,male,15-24 years,12.39
+Iceland,2012,female,15-24 years,8.71
+Iceland,2013,male,15-24 years,20.65
+Iceland,2013,female,15-24 years,0
+Iceland,2014,male,15-24 years,16.54
+Iceland,2014,female,15-24 years,8.7
+Iceland,2015,male,15-24 years,29.03
+Iceland,2015,female,15-24 years,0
+Iceland,2016,male,15-24 years,24.9
+Iceland,2016,female,15-24 years,0
+Ireland,2012,male,15-24 years,21.08
+Ireland,2012,female,15-24 years,5.85
+Ireland,2013,male,15-24 years,16.11
+Ireland,2013,female,15-24 years,3.46
+Ireland,2014,male,15-24 years,23.54
+Ireland,2014,female,15-24 years,4.21
+Israel,2012,male,15-24 years,5.21
+Israel,2012,female,15-24 years,2.21
+Israel,2013,male,15-24 years,4.81
+Israel,2013,female,15-24 years,0.84
+Israel,2014,male,15-24 years,5.52
+Israel,2014,female,15-24 years,1.65
+Israel,2015,male,15-24 years,5.43
+Israel,2015,female,15-24 years,1.3
+Italy,2012,male,15-24 years,5.9
+Italy,2012,female,15-24 years,1.53
+Italy,2013,male,15-24 years,4.82
+Italy,2013,female,15-24 years,1.69
+Italy,2014,male,15-24 years,5.54
+Italy,2014,female,15-24 years,1.59
+Italy,2015,male,15-24 years,5.27
+Italy,2015,female,15-24 years,1.18
+Japan,2012,male,15-24 years,20.92
+Japan,2012,female,15-24 years,8.43
+Japan,2013,male,15-24 years,20.22
+Japan,2013,female,15-24 years,8
+Japan,2014,male,15-24 years,19.31
+Japan,2014,female,15-24 years,7.44
+Japan,2015,male,15-24 years,17.92
+Japan,2015,female,15-24 years,7.07
+Kazakhstan,2012,male,15-24 years,28.76
+Kazakhstan,2012,female,15-24 years,8.95
+Kazakhstan,2013,male,15-24 years,31.4
+Kazakhstan,2013,female,15-24 years,12.95
+Kazakhstan,2014,male,15-24 years,25.85
+Kazakhstan,2014,female,15-24 years,9.82
+Kazakhstan,2015,male,15-24 years,23.53
+Kazakhstan,2015,female,15-24 years,9.88
+Kuwait,2012,male,15-24 years,3.74
+Kuwait,2012,female,15-24 years,1.69
+Kuwait,2013,female,15-24 years,1.29
+Kuwait,2013,male,15-24 years,0.75
+Kuwait,2014,male,15-24 years,2.59
+Kuwait,2014,female,15-24 years,2.19
+Kyrgyzstan,2012,male,15-24 years,12.52
+Kyrgyzstan,2012,female,15-24 years,7.01
+Kyrgyzstan,2013,male,15-24 years,12.86
+Kyrgyzstan,2013,female,15-24 years,6.61
+Kyrgyzstan,2014,male,15-24 years,10.76
+Kyrgyzstan,2014,female,15-24 years,5.28
+Kyrgyzstan,2015,male,15-24 years,11.67
+Kyrgyzstan,2015,female,15-24 years,6.51
+Latvia,2012,male,15-24 years,26.32
+Latvia,2012,female,15-24 years,4.9
+Latvia,2013,male,15-24 years,14.08
+Latvia,2013,female,15-24 years,1.76
+Latvia,2014,male,15-24 years,27.49
+Latvia,2014,female,15-24 years,5.64
+Latvia,2015,male,15-24 years,22.67
+Latvia,2015,female,15-24 years,3
+Lithuania,2012,male,15-24 years,30.48
+Lithuania,2012,female,15-24 years,4.01
+Lithuania,2013,male,15-24 years,47.14
+Lithuania,2013,female,15-24 years,8.82
+Lithuania,2014,male,15-24 years,44.56
+Lithuania,2014,female,15-24 years,6.44
+Lithuania,2015,male,15-24 years,34.94
+Lithuania,2015,female,15-24 years,5.59
+Lithuania,2016,male,15-24 years,23.05
+Lithuania,2016,female,15-24 years,3.55
+Luxembourg,2012,male,15-24 years,15.12
+Luxembourg,2012,female,15-24 years,3.18
+Luxembourg,2013,male,15-24 years,5.93
+Luxembourg,2013,female,15-24 years,0
+Luxembourg,2014,female,15-24 years,6.15
+Luxembourg,2014,male,15-24 years,5.84
+Luxembourg,2015,male,15-24 years,11.51
+Luxembourg,2015,female,15-24 years,3.01
+Malta,2012,male,15-24 years,3.49
+Malta,2012,female,15-24 years,0
+Malta,2013,male,15-24 years,6.98
+Malta,2013,female,15-24 years,0
+Malta,2014,male,15-24 years,7.07
+Malta,2014,female,15-24 years,3.82
+Malta,2015,male,15-24 years,7.2
+Malta,2015,female,15-24 years,3.91
+Mauritius,2012,female,15-24 years,10.03
+Mauritius,2012,male,15-24 years,8.84
+Mauritius,2013,male,15-24 years,17.66
+Mauritius,2013,female,15-24 years,8.48
+Mauritius,2014,male,15-24 years,24.91
+Mauritius,2014,female,15-24 years,3.18
+Mauritius,2015,male,15-24 years,14.51
+Mauritius,2015,female,15-24 years,7.44
+Mauritius,2016,male,15-24 years,18.68
+Mauritius,2016,female,15-24 years,4.26
+Mexico,2012,male,15-24 years,10.95
+Mexico,2012,female,15-24 years,3.67
+Mexico,2013,male,15-24 years,10.59
+Mexico,2013,female,15-24 years,3.5
+Mexico,2014,male,15-24 years,11.5
+Mexico,2014,female,15-24 years,3.69
+Mexico,2015,male,15-24 years,11.54
+Mexico,2015,female,15-24 years,4.26
+Mongolia,2016,male,15-24 years,33.62
+Mongolia,2016,female,15-24 years,7.29
+Netherlands,2012,male,15-24 years,9.31
+Netherlands,2012,female,15-24 years,3.28
+Netherlands,2013,male,15-24 years,8.9
+Netherlands,2013,female,15-24 years,4.56
+Netherlands,2014,male,15-24 years,7.75
+Netherlands,2014,female,15-24 years,4.76
+Netherlands,2015,male,15-24 years,8.41
+Netherlands,2015,female,15-24 years,3.34
+Netherlands,2016,male,15-24 years,7.21
+Netherlands,2016,female,15-24 years,3.41
+New Zealand,2012,male,15-24 years,32.32
+New Zealand,2012,female,15-24 years,13.21
+New Zealand,2013,male,15-24 years,23.49
+New Zealand,2013,female,15-24 years,12.01
+Nicaragua,2012,male,15-24 years,11.86
+Nicaragua,2012,female,15-24 years,7.1
+Nicaragua,2013,male,15-24 years,13.82
+Nicaragua,2013,female,15-24 years,6.45
+Nicaragua,2014,male,15-24 years,10.58
+Nicaragua,2014,female,15-24 years,5.29
+Nicaragua,2015,male,15-24 years,11.1
+Nicaragua,2015,female,15-24 years,7.05
+Norway,2012,male,15-24 years,13.28
+Norway,2012,female,15-24 years,6.53
+Norway,2013,male,15-24 years,12.85
+Norway,2013,female,15-24 years,6.17
+Norway,2014,male,15-24 years,11.04
+Norway,2014,female,15-24 years,5.23
+Norway,2015,male,15-24 years,12.46
+Norway,2015,female,15-24 years,5.23
+Oman,2014,female,15-24 years,0
+Oman,2014,male,15-24 years,0
+Panama,2012,male,15-24 years,8.86
+Panama,2012,female,15-24 years,2.83
+Panama,2013,male,15-24 years,7.25
+Panama,2013,female,15-24 years,1.24
+Panama,2014,male,15-24 years,11.05
+Panama,2014,female,15-24 years,1.54
+Panama,2015,male,15-24 years,4.73
+Panama,2015,female,15-24 years,2.44
+Paraguay,2012,male,15-24 years,9.29
+Paraguay,2012,female,15-24 years,6.38
+Paraguay,2013,male,15-24 years,13.07
+Paraguay,2013,female,15-24 years,5.24
+Paraguay,2014,male,15-24 years,15.33
+Paraguay,2014,female,15-24 years,6.13
+Poland,2012,male,15-24 years,20.09
+Poland,2012,female,15-24 years,2.43
+Poland,2013,male,15-24 years,20.34
+Poland,2013,female,15-24 years,2.69
+Poland,2014,male,15-24 years,22.35
+Poland,2014,female,15-24 years,3.15
+Poland,2015,male,15-24 years,19.35
+Poland,2015,female,15-24 years,2.8
+Portugal,2012,male,15-24 years,4.53
+Portugal,2012,female,15-24 years,1.43
+Portugal,2013,male,15-24 years,3.53
+Portugal,2013,female,15-24 years,0.91
+Portugal,2014,male,15-24 years,4.98
+Portugal,2014,female,15-24 years,1.47
+Puerto Rico,2012,male,15-24 years,10.44
+Puerto Rico,2012,female,15-24 years,0.71
+Puerto Rico,2013,male,15-24 years,6.65
+Puerto Rico,2013,female,15-24 years,0.72
+Puerto Rico,2014,male,15-24 years,7.03
+Puerto Rico,2014,female,15-24 years,0.73
+Puerto Rico,2015,male,15-24 years,3.18
+Puerto Rico,2015,female,15-24 years,0.73
+Qatar,2012,male,15-24 years,2.63
+Qatar,2012,female,15-24 years,0
+Qatar,2013,male,15-24 years,2.81
+Qatar,2013,female,15-24 years,0
+Qatar,2014,male,15-24 years,4.18
+Qatar,2014,female,15-24 years,1.17
+Qatar,2015,male,15-24 years,4.68
+Qatar,2015,female,15-24 years,2.35
+Qatar,2016,male,15-24 years,4.43
+Qatar,2016,female,15-24 years,0
+Republic of Korea,2012,male,15-24 years,13.29
+Republic of Korea,2012,female,15-24 years,9.38
+Republic of Korea,2013,male,15-24 years,13.18
+Republic of Korea,2013,female,15-24 years,8.83
+Republic of Korea,2014,male,15-24 years,12.62
+Republic of Korea,2014,female,15-24 years,8.01
+Republic of Korea,2015,male,15-24 years,11.76
+Republic of Korea,2015,female,15-24 years,7.97
+Romania,2012,male,15-24 years,12.58
+Romania,2012,female,15-24 years,2.31
+Romania,2013,male,15-24 years,11.18
+Romania,2013,female,15-24 years,1.96
+Romania,2014,male,15-24 years,10.79
+Romania,2014,female,15-24 years,1.29
+Romania,2015,male,15-24 years,10.92
+Romania,2015,female,15-24 years,1.41
+Romania,2016,male,15-24 years,8.26
+Romania,2016,female,15-24 years,1.34
+Russian Federation,2012,male,15-24 years,34.53
+Russian Federation,2012,female,15-24 years,6.87
+Russian Federation,2013,male,15-24 years,31.09
+Russian Federation,2013,female,15-24 years,5.97
+Russian Federation,2014,male,15-24 years,25.94
+Russian Federation,2014,female,15-24 years,5.46
+Russian Federation,2015,male,15-24 years,24.11
+Russian Federation,2015,female,15-24 years,4.94
+Saint Lucia,2012,male,15-24 years,6.24
+Saint Lucia,2012,female,15-24 years,0
+Saint Lucia,2013,male,15-24 years,12.36
+Saint Lucia,2013,female,15-24 years,0
+Saint Lucia,2014,female,15-24 years,6.18
+Saint Lucia,2014,male,15-24 years,6.15
+Saint Vincent and Grenadines,2012,male,15-24 years,19.85
+Saint Vincent and Grenadines,2012,female,15-24 years,10.14
+Saint Vincent and Grenadines,2013,female,15-24 years,0
+Saint Vincent and Grenadines,2013,male,15-24 years,0
+Saint Vincent and Grenadines,2014,female,15-24 years,0
+Saint Vincent and Grenadines,2014,male,15-24 years,0
+Saint Vincent and Grenadines,2015,male,15-24 years,10.22
+Saint Vincent and Grenadines,2015,female,15-24 years,0
+Serbia,2012,male,15-24 years,7.69
+Serbia,2012,female,15-24 years,2.2
+Serbia,2013,male,15-24 years,6.91
+Serbia,2013,female,15-24 years,0.5
+Serbia,2014,male,15-24 years,7.82
+Serbia,2014,female,15-24 years,1.03
+Serbia,2015,male,15-24 years,6.75
+Serbia,2015,female,15-24 years,1.85
+Seychelles,2012,female,15-24 years,0
+Seychelles,2012,male,15-24 years,0
+Seychelles,2013,male,15-24 years,14.7
+Seychelles,2013,female,15-24 years,0
+Seychelles,2014,male,15-24 years,15.65
+Seychelles,2014,female,15-24 years,0
+Seychelles,2015,female,15-24 years,16.79
+Seychelles,2015,male,15-24 years,15.64
+Singapore,2012,male,15-24 years,7.18
+Singapore,2012,female,15-24 years,6.57
+Singapore,2013,male,15-24 years,11.36
+Singapore,2013,female,15-24 years,5.82
+Singapore,2014,male,15-24 years,7.71
+Singapore,2014,female,15-24 years,1.99
+Singapore,2015,male,15-24 years,7.37
+Singapore,2015,female,15-24 years,6.02
+Slovakia,2012,male,15-24 years,11.2
+Slovakia,2012,female,15-24 years,0.86
+Slovakia,2013,male,15-24 years,10.99
+Slovakia,2013,female,15-24 years,2.95
+Slovakia,2014,male,15-24 years,8.75
+Slovakia,2014,female,15-24 years,1.53
+Slovenia,2012,male,15-24 years,17.66
+Slovenia,2012,female,15-24 years,0.94
+Slovenia,2013,male,15-24 years,21.11
+Slovenia,2013,female,15-24 years,1.95
+Slovenia,2014,male,15-24 years,15.15
+Slovenia,2014,female,15-24 years,3.01
+Slovenia,2015,male,15-24 years,13.55
+Slovenia,2015,female,15-24 years,3.07
+South Africa,2012,male,15-24 years,2.07
+South Africa,2012,female,15-24 years,0.94
+South Africa,2013,male,15-24 years,2.3
+South Africa,2013,female,15-24 years,0.63
+South Africa,2014,male,15-24 years,2.43
+South Africa,2014,female,15-24 years,0.98
+South Africa,2015,male,15-24 years,1.73
+South Africa,2015,female,15-24 years,0.67
+Spain,2012,male,15-24 years,5.04
+Spain,2012,female,15-24 years,1.49
+Spain,2013,male,15-24 years,5.62
+Spain,2013,female,15-24 years,2.02
+Spain,2014,male,15-24 years,5.92
+Spain,2014,female,15-24 years,2.28
+Spain,2015,male,15-24 years,4.77
+Spain,2015,female,15-24 years,2.16
+Suriname,2012,male,15-24 years,34.64
+Suriname,2012,female,15-24 years,19.27
+Suriname,2013,male,15-24 years,36.38
+Suriname,2013,female,15-24 years,25.48
+Suriname,2014,male,15-24 years,18.07
+Suriname,2014,female,15-24 years,16.89
+Sweden,2012,male,15-24 years,13.07
+Sweden,2012,female,15-24 years,5.64
+Sweden,2013,male,15-24 years,15.75
+Sweden,2013,female,15-24 years,8.07
+Sweden,2014,male,15-24 years,14.17
+Sweden,2014,female,15-24 years,6.14
+Sweden,2015,male,15-24 years,11.11
+Sweden,2015,female,15-24 years,6.49
+Sweden,2016,male,15-24 years,11.56
+Sweden,2016,female,15-24 years,6.3
+Switzerland,2012,male,15-24 years,13.55
+Switzerland,2012,female,15-24 years,2.17
+Switzerland,2013,male,15-24 years,10.83
+Switzerland,2013,female,15-24 years,3.69
+Switzerland,2014,male,15-24 years,9.83
+Switzerland,2014,female,15-24 years,2.99
+Switzerland,2015,male,15-24 years,12.84
+Switzerland,2015,female,15-24 years,4.32
+Thailand,2012,male,15-24 years,7.47
+Thailand,2012,female,15-24 years,1.78
+Thailand,2013,male,15-24 years,6.68
+Thailand,2013,female,15-24 years,1.86
+Thailand,2014,male,15-24 years,6.83
+Thailand,2014,female,15-24 years,1.04
+Thailand,2015,male,15-24 years,6.54
+Thailand,2015,female,15-24 years,1.19
+Thailand,2016,male,15-24 years,6.8
+Thailand,2016,female,15-24 years,1.33
+Turkey,2012,male,15-24 years,2.86
+Turkey,2012,female,15-24 years,1.53
+Turkey,2013,male,15-24 years,3.92
+Turkey,2013,female,15-24 years,2.15
+Turkey,2014,male,15-24 years,3.99
+Turkey,2014,female,15-24 years,1.83
+Turkey,2015,male,15-24 years,3.15
+Turkey,2015,female,15-24 years,2.09
+Turkmenistan,2012,male,15-24 years,6.39
+Turkmenistan,2012,female,15-24 years,3.34
+Turkmenistan,2013,male,15-24 years,3.54
+Turkmenistan,2013,female,15-24 years,3.03
+Turkmenistan,2014,female,15-24 years,4.46
+Turkmenistan,2014,male,15-24 years,3.81
+Turkmenistan,2015,male,15-24 years,6.02
+Turkmenistan,2015,female,15-24 years,4.16
+Ukraine,2012,male,15-24 years,28.3
+Ukraine,2012,female,15-24 years,4.47
+Ukraine,2014,male,15-24 years,22.04
+Ukraine,2014,female,15-24 years,4.9
+Ukraine,2015,male,15-24 years,21.05
+Ukraine,2015,female,15-24 years,5.13
+United Kingdom,2012,male,15-24 years,8.66
+United Kingdom,2012,female,15-24 years,1.73
+United Kingdom,2013,male,15-24 years,7.92
+United Kingdom,2013,female,15-24 years,2.02
+United Kingdom,2014,male,15-24 years,7.96
+United Kingdom,2014,female,15-24 years,2.58
+United Kingdom,2015,male,15-24 years,9.01
+United Kingdom,2015,female,15-24 years,2.62
+United States,2012,male,15-24 years,17.25
+United States,2012,female,15-24 years,4.41
+United States,2013,male,15-24 years,17.17
+United States,2013,female,15-24 years,4.49
+United States,2014,male,15-24 years,18.01
+United States,2014,female,15-24 years,4.56
+United States,2015,male,15-24 years,19.27
+United States,2015,female,15-24 years,5.23
+Uruguay,2012,male,15-24 years,30.6
+Uruguay,2012,female,15-24 years,4.69
+Uruguay,2013,male,15-24 years,27.54
+Uruguay,2013,female,15-24 years,5.86
+Uruguay,2014,male,15-24 years,29.44
+Uruguay,2014,female,15-24 years,7.04
+Uruguay,2015,male,15-24 years,27.97
+Uruguay,2015,female,15-24 years,6.66
+Uzbekistan,2012,female,15-24 years,10.84
+Uzbekistan,2012,male,15-24 years,9.72
+Uzbekistan,2013,female,15-24 years,10.63
+Uzbekistan,2013,male,15-24 years,10.09
+Uzbekistan,2014,female,15-24 years,11.59
+Uzbekistan,2014,male,15-24 years,11.1
